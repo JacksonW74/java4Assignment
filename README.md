@@ -67,7 +67,8 @@ Submission Text Box Format
 
     GitHub Repository URL: 
 
-https://github.com/JacksonW74/java4Assignment.git
+    https://github.com/JacksonW74/java4Assignment.git
 
 
-    Video URL:     https://youtu.be/your_video_information_here
+    Video URL:     
+    https://youtu.be/3gclOa75p_w
